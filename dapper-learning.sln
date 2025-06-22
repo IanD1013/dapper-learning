@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Intro To Dapper", "1-Intro To Dapper\1-Intro To Dapper.csproj", "{50AD3604-A26C-4D91-AF0E-91F8B8E61780}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Querying Data", "2-Querying Data\2-Querying Data.csproj", "{490DEFCB-1033-4445-B0E1-A75CE1119666}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{50AD3604-A26C-4D91-AF0E-91F8B8E61780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50AD3604-A26C-4D91-AF0E-91F8B8E61780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50AD3604-A26C-4D91-AF0E-91F8B8E61780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490DEFCB-1033-4445-B0E1-A75CE1119666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490DEFCB-1033-4445-B0E1-A75CE1119666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490DEFCB-1033-4445-B0E1-A75CE1119666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490DEFCB-1033-4445-B0E1-A75CE1119666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
